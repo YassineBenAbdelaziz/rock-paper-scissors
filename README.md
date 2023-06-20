@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 Rock paper scissors game.  
 This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.  
-[Live Demo]()
+[Live Demo](https://yassinebenabdelaziz.github.io/rock-paper-scissors/)
 
 
 #### Artist Attribution
