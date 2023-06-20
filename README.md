@@ -1,6 +1,6 @@
-#Rock-Paper-Scissors
-Rock paper scissors game.
-This project is part of [The Odin Project curriculum](https://www.theodinproject.com/)
+# Rock-Paper-Scissors
+Rock paper scissors game.  
+This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.  
 [Live Demo]()
 
 
