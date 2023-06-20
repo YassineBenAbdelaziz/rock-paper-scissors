@@ -1,0 +1,76 @@
+body {
+    background-color: gray;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    
+}
+
+h1 {
+    color: azure;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items:  center;  
+    flex-wrap: wrap;  
+}
+
+.scores {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+}
+
+h3 {
+    flex-basis: 100%;
+    text-align: center;
+    color: azure;
+
+}
+
+.cell {
+    width: 230px;
+    height: 230px;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cell:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+
+.images {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;;
+
+}
+
+.reset {
+    margin-top: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+}
